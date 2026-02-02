@@ -47,4 +47,4 @@ I am currently transitioning into a **Full-Stack Developer** role. My primary fo
 ---
 
 ### 📊 GitHub Activity
-![Boutaina's GitHub stats](https://github-readme-stats.vercel.app/api?username=Boutaina-atlassi&show_icons=true&theme=transparent&count_private=true)
+![Boutaina's GitHub stats](https://github-readme-stats.vercel.app/api?username=Boutaina-atlassi&show_icons=true&theme=radical&count_private=true)
