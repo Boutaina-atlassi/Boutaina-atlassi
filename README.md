@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Boutaina Atlassi
+# 👋 Hi, I’m Boutaĩna Atlassi
 
 ### 🎓 Computer Science Graduate | Mobile And Web Developer
 I am a  **B.Sc. in Computer Science** graduate. I am an aspiring engineer dedicated to building seamless digital experiences across mobile and web platforms.
@@ -47,4 +47,4 @@ I am currently transitioning into a **Full-Stack Developer** role. My primary fo
 ---
 
 ### 📊 GitHub Activity
-![Boutaina's GitHub stats](https://github-readme-stats.vercel.app/api?username=Boutaina-atlassi&show_icons=true&theme=radical&count_private=true)
+<img src="https://github-readme-stats.vercel.app/api?username=Boutaina-atlassi&show_icons=true&theme=radical" alt="GitHub Stats" />
