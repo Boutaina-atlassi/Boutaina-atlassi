@@ -44,7 +44,3 @@ I am currently transitioning into a **Full-Stack Developer** role. My primary fo
   </a>
 </p>
 
----
-
-### 📊 GitHub Activity
-<img src="https://github-readme-stats.vercel.app/api?username=Boutaina-atlassi&show_icons=true&theme=radical" alt="GitHub Stats" />
