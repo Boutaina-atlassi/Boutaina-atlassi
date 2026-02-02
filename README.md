@@ -1,21 +1,20 @@
 # 👋 Hi, I’m Boutaina Atlassi
 
-### 🎓 Computer Science Graduate | Mobile App Developer
-I am a recent **B.Sc. in Computer Science** graduate with a passion for building functional and beautiful mobile applications. I focus on clean code and user-centric design using the **Flutter** ecosystem.
+### 🎓 Computer Science Graduate | Mobile And Web Developer
+I am a  **B.Sc. in Computer Science** graduate. I am an aspiring engineer dedicated to building seamless digital experiences across mobile and web platforms.
 
-- 👀 **Interests:** Mobile Development (Android/iOS), UI/UX Design, and Software Localization.
+- 👀 **Interests:** Mobile & Web Development, UI/UX Design, Scalable Systems, and Software Localization.
 - 🌱 **Current Learning:** Advanced Flutter patterns, Firebase Backend, and AI integration.
-- 🛠 **Projects:** Currently refining a **Medical Appointment App** and an **AI Chat Platform**.
-- 🙌 **Open to:** Junior Developer roles, internships, and open-source collaborations.
+- 🚀 **Current Projects:** Refining my **Medical Appointment App** and expanding into **Web Development**.
+- 🙌 **Open to:** Junior Developer roles, internships, and technical collaborations.
 
 ---
 
 ### 🛠 Tech Stack
 
-- **Languages:** Dart, Java, C, SQL
-- **Frameworks:** Flutter (Primary), Firebase
-- **Databases:** MySQL, SQLite, Hive
-- **Tools:** Git, Figma, Android Studio, VS Code
+- **Mobile:** ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white)
+- **Web (Current):** ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
+- **Core & DB:** ![Java](https://img.shields.io/badge/-Java-ED8B00?logo=java&logoColor=white) ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
 
 ---
 
@@ -23,6 +22,14 @@ I am a recent **B.Sc. in Computer Science** graduate with a passion for building
 * **Medical Appointment App:** A Flutter-based solution for healthcare scheduling.
 * **AI Chat App:** Real-time messaging with smart response integration.
 * **Inventory System:** Java & MySQL backend for data management.
+
+---
+
+### 📈 Learning Roadmap
+I am currently transitioning into a **Full-Stack Developer** role. My primary focus is mastering the web ecosystem while expanding my cross-platform mobile expertise:
+* 🏗️ **Current:** Deep-diving into **JavaScript (ES6+)** and modern Web Layouts.
+* 🔜 **Planned:** Mastering **React.js** for web and **Node.js** for backend architecture.
+* 📱 **Expansion:** Adding **React Native** to my mobile toolkit to complement my Flutter background.
 
 ---
 
