@@ -13,8 +13,8 @@ I am a  **B.Sc. in Computer Science** graduate. I am an aspiring engineer dedica
 ### 🛠 Tech Stack
 
 - **Mobile:** ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white)
-- **Web (Current):** ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
-- **Core & DB:** ![Java](https://img.shields.io/badge/-Java-ED8B00?logo=java&logoColor=white) ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
+- **Web (Current):** ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
+- **Core & DB:** ![Java](https://img.shields.io/badge/-Java-ED8B00?logo=java&logoColor=white) ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black)
 
 ---
 
@@ -39,7 +39,7 @@ I am currently transitioning into a **Full-Stack Developer** role. My primary fo
   <a href="mailto:atlassiboutaina2@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
@@ -47,4 +47,4 @@ I am currently transitioning into a **Full-Stack Developer** role. My primary fo
 ---
 
 ### 📊 GitHub Activity
-![Boutaina's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent)
+![Boutaina's GitHub stats](https://github-readme-stats.vercel.app/api?username=Boutaina-atlassi&show_icons=true&theme=transparent)
